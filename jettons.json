@@ -2091,5 +2091,16 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
+ },
+ {
+  "address": "EQCZx3UdNjQ_GhGmV6ATeesXeEsvkNFmFe_Uofb8CLHrJMDb",
+  "description": "A digital asset that functions as company shares.",
+  "image": "https://zioncoderone.github.io/stareks/logo.png",
+  "name": "STAREKS",
+  "symbol": "STX",
+  "websites": [
+   "https://stareks.ru"
+  ]
  }
+ 
 ]
